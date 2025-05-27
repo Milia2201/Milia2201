@@ -14,6 +14,8 @@ I got the Handicraft ADD Superpowers, which I love to set free in my Art Studio.
   - 😄 Pronouns: She / Her
   - ⚡ Fun fact: My Name translates to Appletree from Greek
 
+<img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
+
     
 
 
