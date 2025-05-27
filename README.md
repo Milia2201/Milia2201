@@ -6,7 +6,12 @@ I used to write some automatisation-stuff in Powershell and more fun things in P
 As much as I love spending time on my computer, I also love drawing flowers, tattooing the brave and all kinds of DIY-things.  
 I got the Handicraft ADD Superpowers, which I love to set free in my Art Studio. 
 
-
+  - 🌱 I’m currently learning Web Development
+  - 💬 Ask me about Tattoos, Crocheting, Boardgames
+  - 🌱 I'm a vegan bacause there is no reason not to be
+  - 😄 Pronouns: She / Her
+  - ⚡ Fun fact: My Name translates to Appletree from Greek
+    
 
 
 <!--
