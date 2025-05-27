@@ -1,5 +1,7 @@
 # Welcome to my page <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
+Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/{Milia2201}/count.svg)
+
 I'm Milia, 28, from Freiburg, Germany. 
 Back at coding, but feel like a newby again cause it's been some time. Trying myself in a Web-Dev Course. 
 I used to write some automatisation-stuff in Powershell and more fun things in Python.  
