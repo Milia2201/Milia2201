@@ -10,25 +10,14 @@ I got the Handicraft ADD Superpowers, which I love to set free in my Art Studio.
 
   - 🌱 I’m currently learning Web Development
   - 💬 Ask me about Tattoos, Crocheting, Boardgames
-  - 🌱 I'm a vegan bacause there is no reason not to be
+  - :leaves: I'm a vegan bacause there is no reason not to be
   - 😄 Pronouns: She / Her
   - ⚡ Fun fact: My Name translates to Appletree from Greek
+
     
 
 
 <!--
 **Milia2201/Milia2201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-## Hi there 👋
-a link to a picture / gif,
-a list or table.
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
