@@ -1,4 +1,4 @@
-# Welcome to my page 👋
+# Welcome to my page <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 I'm Milia, 28, from Freiburg, Germany. 
 Back at coding, but feel like a newby again cause it's been some time. Trying myself in a Web-Dev Course. 
